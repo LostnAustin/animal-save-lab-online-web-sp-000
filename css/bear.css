@@ -17,6 +17,6 @@ html {
 @media only screen and (min-width: 1196px;) {
   #bear {
   float: left;
-  padding-left: 800px;
+  padding-right: 800px;
   }
 }
