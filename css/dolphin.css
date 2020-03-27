@@ -20,3 +20,10 @@ html {
 
 /* Write your solution here */
 
+@media only screen and (max-width: 400px) {
+  #monkey {
+    top: -75px;
+    transform: rotate(-25deg);
+
+  }
+}
