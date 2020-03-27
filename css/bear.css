@@ -12,6 +12,6 @@ html {
 
 @media screen and (min-width: 1196px;) {
   #bear {
-  margin-left: -800px;
+  float: -800px;
   }
 }
