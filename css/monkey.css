@@ -24,3 +24,11 @@ html {
 
   }
 }
+
+@media only screen and (max-width: 687px) {
+  #monkey {
+    top: -75px;
+    transform: rotate(-270deg);
+
+  }
+}
