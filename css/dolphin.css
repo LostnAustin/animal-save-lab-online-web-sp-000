@@ -20,10 +20,40 @@ html {
 
 /* Write your solution here */
 
-@media only screen and (max-width: 400px) {
-  #monkey {
+@media only screen and (max-width: 1196px) {
+  #dolphin {
     top: -75px;
     transform: rotate(-25deg);
+
+  }
+}
+
+@media only screen and (max-width: 923px) {
+  #dolphin {
+    top: -75px;
+    transform: rotate(-150deg);
+
+  }
+}
+
+@media only screen and (max-width: 687px) {
+  #dolphin {
+    top: -75px;
+    transform: rotate(-270deg);
+
+  }
+}
+
+@media only screen and (max-width: 642px) {
+  #dolphin {
+    top: -75px;
+    transform: rotate(-15deg);
+
+  }
+}
+@media only screen and (max-width: 630px) {
+  #dolphin {
+    top: 0px;
 
   }
 }
