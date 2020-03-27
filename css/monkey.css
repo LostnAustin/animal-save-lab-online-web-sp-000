@@ -17,10 +17,10 @@ html {
   }
 }
 
-@media only screen and (max-width: 800px) {
+@media only screen and (max-width: 923px) {
   #monkey {
     top: -75px;
-    transform: rotate(-100deg);
+    transform: rotate(-150deg);
 
   }
 }
