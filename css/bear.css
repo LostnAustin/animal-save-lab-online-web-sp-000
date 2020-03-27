@@ -9,10 +9,14 @@ html {
 }
 
 /* Write your solution here */
+.wrapper {
+  width: 90%;
+}
 
-@media screen and (min-width: 1196px;) {
+
+@media only screen and (min-width: 1196px;) {
   #bear {
   float: left;
-  padding: 800px;
+  padding-left: 800px;
   }
 }
